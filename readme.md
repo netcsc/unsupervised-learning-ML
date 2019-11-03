@@ -1,6 +1,4 @@
-# 7641 - schen726
-## Project 3
-### Running project 3 code
+### Running code
 0. Go to below github url clone project 3 source code
     a. https://github.com/netcsc/unsupervised-learning-ML
 1. Make sure "conda" command exist, which is a python package and environment management system
